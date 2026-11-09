@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Raysin Calculator",
+  "short_name": "Raysin",
+  "description": "Calcola Raysin 200, acqua e costi per le tue colate negli stampi in silicone.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8F7FB",
+  "theme_color": "#6845D9",
+  "categories": ["utilities", "productivity", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
